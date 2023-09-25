@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap");
+
+.body {
+  background-color: rgb(66, 18, 103);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  text-align: center;
+  background-color: rgb(66, 18, 103);
+  color: rgb(234, 234, 241);
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.bodyv {
+  background-color: rgb(66, 18, 103);
+  color: rgb(234, 234, 241);
+}
+
+.first_sub {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
